@@ -12,3 +12,9 @@ Changes in the first number (v1.1.1 -> v2.1.1) means that an essential part of t
 Changes in the second number (v2.1.1 -> v2.2.1) means that an large part of the file itself has changed, but the it isn't because of the game play.
 
 Changes in the third number (v2.2.1 -> v2.2.2) means that some part of the file has changed, but it isn't a significant difference, but that there are some changes.
+-----------------------------------------------------------------------------------------------------------------------------
+Designer Contact Information
+
+Jacynth Tate Yasay Agraan
+email: agraanjt@gmail.com
+(if sending an email, please include "Guess That Motivation" in the Subject)
