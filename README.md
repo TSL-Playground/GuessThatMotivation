@@ -12,11 +12,13 @@ Players: 3-4
 Time: 30 - 45 min
 
 Materials Required to Play
+
 Provided in github:
   - Motivation Tile Information (Tiles made by designer; 32 tiles, 4 of each topic, 8 topics)
   - Game Cards (one for each player)
   - Game Board
   - 5 tiles
+
 To be supplied by players
   - Pens
   - Post-It Notes or Paper
@@ -50,6 +52,7 @@ This game aims to help the players understand different student behaviors and de
 Version Control
 
 Different versions have version types in this form: v(1st#).(2nd#).(3rd#)
+
 For example, the very first iteration of a file is v1.1.1
 
 Changes in the first number (v1.1.1 -> v2.1.1) means that an essential part of the game play has changed and so the file was adjusted to compensate for that.
@@ -64,6 +67,7 @@ Designer Information
 
 Contact:
 Jacynth Tate Yasay Agraan
+
 email: agraanjt@gmail.com
 (if sending an email, please include "Guess That Motivation" in the Subject)
 
